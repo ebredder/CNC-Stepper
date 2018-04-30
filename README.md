@@ -11,30 +11,21 @@ This project will provide a background for controlling stepper motors using a ba
 
 ### Next Generation Science Standards
 
-HS Energy
+HS Energy - [HS PS3-1-4](https://www.nextgenscience.org/topic-arrangement/hsenergy)
 
-[HS PS3-1-4](https://www.nextgenscience.org/topic-arrangement/hsenergy)
-
-HS Engineering
-
-[HS ETS1-1-4](https://www.nextgenscience.org/dci-arrangement/hs-ets1-engineering-design)
+HS Engineering - [HS ETS1-1-4](https://www.nextgenscience.org/dci-arrangement/hs-ets1-engineering-design)
 
 ### Virginia DOE Standards of Learning
 
-Physical Science
+Physical Science - [PS1, 10, 11](http://www.doe.virginia.gov/testing/sol/standards_docs/science/courses/stds_physical_sci.pdf)
 
-[PS1, 10, 11](http://www.doe.virginia.gov/testing/sol/standards_docs/science/courses/stds_physical_sci.pdf)
-
-Mechatronics
-
-[Competencies 57-88](http://www.cteresource.org/verso/courses/8554/mechatronics-i-tasklist)
+Mechatronics - [Competencies 57-88](http://www.cteresource.org/verso/courses/8554/mechatronics-i-tasklist)
 
 ### Manufacturing Technician Level 1
 
-Standards
-
-Category I: Math & Measurement  
-Category II: Spatial Reasoning & Manufacturing Technology
+**Standards:**
++ Category I: Math & Measurement  
++ Category II: Spatial Reasoning & Manufacturing Technology
 
 ## Getting Started:
 
